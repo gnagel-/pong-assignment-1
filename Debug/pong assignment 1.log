@@ -1,0 +1,31 @@
+﻿Build started 7/18/2015 8:51:53 PM.
+     1>Project "C:\Users\Gina\Documents\Visual Studio 2013\Projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\pong assignment 1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt mainPong.cpp paddle.cpp
+         paddle.cpp
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\paddle.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         mainPong.cpp
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\mainpong.cpp(24): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\mainpong.cpp(25): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\mainpong.cpp(48): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\mainpong.cpp(74): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\mainpong.cpp(86): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\mainpong.cpp(107): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\mainpong.cpp(117): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\mainpong.cpp(120): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\mainpong.cpp(121): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\mainpong.cpp(332): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\mainpong.cpp(349): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\gina\documents\visual studio 2013\projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\mainpong.cpp(367): warning C4305: '+=' : truncation from 'double' to 'float'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Gina\Documents\Visual Studio 2013\Projects\cmpm 170 assignments\pong assignment 1\Debug\pong assignment 1.exe" /INCREMENTAL /NOLOGO "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Gina\Documents\Visual Studio 2013\Projects\cmpm 170 assignments\pong assignment 1\Debug\pong assignment 1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Gina\Documents\Visual Studio 2013\Projects\cmpm 170 assignments\pong assignment 1\Debug\pong assignment 1.lib" /MACHINE:X86 Debug\ball.obj
+         Debug\main2.obj
+         Debug\mainPong.obj
+         Debug\paddle.obj
+         pong assignment 1.vcxproj -> C:\Users\Gina\Documents\Visual Studio 2013\Projects\cmpm 170 assignments\pong assignment 1\Debug\pong assignment 1.exe
+     1>Done Building Project "C:\Users\Gina\Documents\Visual Studio 2013\Projects\cmpm 170 assignments\pong assignment 1\pong assignment 1\pong assignment 1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.37
